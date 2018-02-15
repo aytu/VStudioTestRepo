@@ -9,5 +9,7 @@ namespace ConsoleApp1
     class NewClass
     {
         //yeni
+        //add code
+
     }
 }
