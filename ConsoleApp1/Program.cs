@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             //hello world 12
             // new line
-            Console.Write("salam");
+            Console.Write("salsdsds");
         }
     }
 }
