@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class BracnhClass
+    class SecondBranchClass
     {
-        //branch 2.3
-        // new line
+        //second branch class
     }
 }
